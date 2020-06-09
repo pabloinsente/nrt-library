@@ -9,6 +9,8 @@ summary: This is an awesome website full of data science wisdom.
 
 {% include note.html content="This is a note box to highligh very important things" %}
 
+SOEMTHING 
+
 
 ![](./images/logo-nrt.png)
 
